@@ -1,0 +1,61 @@
+Links:
+https://www.canadavisa.com/canada-immigration-discussion-board/threads/new-b4-and-b4a-forms-bsf186-and-bsf186a.411260/
+https://www.canadavisa.com/canada-immigration-discussion-board/threads/sample-bsf186-and-bsf186a-attached-for-ref.525057/
+https://www.canadavisa.com/canada-immigration-discussion-board/threads/form-b4-goods-to-follow-accompanying-list-how-to.44793/page-64
+https://drive.google.com/file/d/0B_9sxUTiiwEjS0ZIMmtQNnhwSG8/view
+
+
+ASSUMPTIONS/PROLOGUE:
+a) The form B4A is an extension of the form B4 [which is the main one to file]. Writing the B4A is a similarly daunting task, thus can be avoided. I didn't.
+b) As the form B4 contains 'only' 8 rows to fill the goods/items, use only 8 groups of things. How? Explained later.
+
+WHAT U SHOULD CARRY?
+U should make 2 copies of the form B4. One for the 'Goods Accompanying' & one for the 'Goods to Follow'. Alongwith the attachments. What's that? Here u go...
+
+STEP-1:
+a) Group all similar items into one list & thus make 8 lists.
+b) Type these groups in Excel Sheets* [separate for each group]. Title each Sheet. And a Page No.
+c) Enlist the Columns as: Sl.No | Item Description | Qty | Value (CAD) |
+d) Total the Value, of each Excel Sheet.
+e) Take printouts of each Excel Sheet in A4 size paper [2 copies].
+
+*Eg. 1.Electronics, 2.Jewelries, 3.Clothing & Personal Effects, 4.Books & DVDs, 5.Gadgets & Mobile Phones, 6.Cutlery & Utensils, 7.Home Decorations & Murals AND 8.Linens & Drapers. [the Title Heading can vary as per your choice & requirement]
+
+STEP-2:
+a) Place all jewelry in Groups* & click Pictures [Must, else they'll not be accepted].
+b) Title each Sheet. And put a Page No.
+c) Take printouts of each Jewelry Group in A4 size paper [2 copies].
+d) Make an Excel Sheet, for the Summary of the Jewelry Sheets. And place a Value against each group.
+e) Total the Excel Sheet Value, in the end.
+
+*Eg. 1.Rings, 2.Bangles & Bracelets, 3.Chains & Necklaces, 4.Cummerbunds, 5.Diamond Sets, 6.Ear-Rings & Pendants, 7.Head-Bands & Chokers etc. (each in one group/sheet). [the Title Heading can vary as per your choice & requirement]
+
+STEP-3: [Major Step]
+a) Fill-out the form B4, as per the 8 Title Headings AND write the Total Value of each Excel Sheet.
+b) Make a box [by hand] at the End of the 8 rows' Value Column. Write the Total Value* of the Goods.
+c) For the Name field, write the PA's name.
+d) For the Importer's Address, write the Canadian Address.
+e) For the Country of Export, write your Home Country's Name.
+f) For the Goods to Follow BOX [below the list rows], "Tick" it.
+g) At Page-2 of the form B4, "Tick" the Newcomer BOX.
+h) Bottom of the Page-2, Sign, Date [the day of Landing] & Location [write your Landing POE's name].
+
+*U must write the Total Value of the entire goods, as that's needed by the CBSA to log on their system.
+
+STEP-4:
+a) Print-it out [on regular A4 sheets], both pages [1 & 2] separately.
+b) Take 2 printouts [one for the CBSA & one for U, with their Stamp, Sign & Date].
+c) Staple all the Excel Sheets & the Jewelry Sheets, into each form B4.
+
+NOTE:
+1. Do not forget to take 2 printouts of each form B4 and its attachments. One will be kept by them.
+2. Do not forget to take pics of the Jewelry. Else, they'll not accept it*.
+3. Do not forget to get it stamped on landing. Sometimes the BSO doesn't ask. It's our prerogative.
+
+*In that case they'll ask u to get it by email & visit the airport the next day for stamping your B4. Though it can be done, but u get into unnecessary hassles, time & effort. And u just have 24 hrs to do so. Which is an avoidable tension. Isn't it?
+
+WHERE TO FIND THE FORM?
+http://www.cbsa.gc.ca/publications/forms-formulaires/b4-eng.pdf
+
+Hope that helped.
+  
